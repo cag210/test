@@ -1,7 +1,5 @@
 
 import streamlit as st
-#from textblob import TextBlob
-import plotly.graph_objects as go
 import pandas as pd
 import csv
 from PIL import Image
